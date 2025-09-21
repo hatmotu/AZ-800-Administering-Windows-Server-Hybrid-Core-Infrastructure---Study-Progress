@@ -6,7 +6,7 @@ Source: [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certific
 
 ## Purpose of this document
 
-This Document was partly edited by myself for study progress tracking and linking documents presenting relatable lab projects. Skill descriptions are still as in the Microsoft Learn document as dated above.
+This Document was partly edited by myself for study progress tracking and linking documents presenting relatable lab projects. Skill descriptions are still as in the Microsoft Learn document as dated above, but expanded by subskills.
 
 ## Skills measured as of June 17, 2025
 
